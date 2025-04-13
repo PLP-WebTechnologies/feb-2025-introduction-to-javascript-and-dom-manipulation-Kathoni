@@ -1,0 +1,13 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 2rem;
+}
+#highlight {
+    color: navy;
+}
+.box {
+    padding: 1rem;
+    background-color: lightgray;
+    margin-top: 1rem;
+    border-radius: 8px;
+}
